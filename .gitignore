@@ -104,3 +104,4 @@ dist
 .tern-port
 
 UploadSign/node_modules/*
+CreateFileMetadata/node_modules/*
