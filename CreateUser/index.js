@@ -24,7 +24,7 @@ exports.handler = (event, context, callback) => {
                 "S": event.request.userAttributes.email
             },
             "Role": {
-                "N": "2"
+                "N": "3"
             }
         }
     };
